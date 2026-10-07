@@ -172,7 +172,7 @@ uv --version
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone [https://github.com/ooppssss/GeoMeasure.git]
 ```
 
 Move into the project directory:
