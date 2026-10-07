@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Points</name>
+    <Placemark>
+      <name>New York City</name>
+      <description>The Big Apple</description>
+      <Point>
+        <coordinates>-74.006,40.7128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London</name>
+      <description>Capital of UK</description>
+      <Point>
+        <coordinates>-0.1276,51.5074,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

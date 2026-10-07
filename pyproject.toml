@@ -1,0 +1,19 @@
+[project]
+name = "geomeasure"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Nupur Samrit", email = "nrsamrit@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.142.2",
+    "fastkml",
+    "fiona>=1.10.1",
+    "geopandas>=1.2.0",
+    "pyproj>=3.8.0",
+    "python-multipart>=0.0.32",
+    "shapely>=2.1.2",
+    "uvicorn[standard]>=0.54.0",
+]
